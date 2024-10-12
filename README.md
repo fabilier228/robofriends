@@ -20,4 +20,3 @@ Install Robofriends with git clone
 npm install
 npm start
 ```
-## Result
