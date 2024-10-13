@@ -20,4 +20,4 @@ Install Robofriends with git clone
 npm install
 npm start
 ```
-### Or... You can visit [robofriends](fabilier228.github.io/robofriends/)
+### Or... You can visit [robofriends](https://fabilier228.github.io/robofriends/)
